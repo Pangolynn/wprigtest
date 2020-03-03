@@ -3,5 +3,13 @@
     "slug": "newrig",
     "name": "New Rig",
     "author": "Samantha Simonds"
+  },
+  "dev": {
+    "browserSync": {
+      "live": true,
+      "proxyURL": "wprig.local",
+      "bypassPort": "8181",
+      "https": false
+    }
   }
 }
